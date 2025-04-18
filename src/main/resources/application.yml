@@ -1,0 +1,8 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: ms-currency-exchange-service
+  cloud:
+    config:
+      enabled: false
